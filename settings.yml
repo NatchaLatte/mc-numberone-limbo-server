@@ -51,7 +51,7 @@ secureProfile: false
 # Server name which is shown under F3
 # For 1.13+ clients
 brandName:
-  enable: true
+  enable: false
   content: 'NanoLimbo'
 
 # Message sends when player joins to the server
@@ -73,7 +73,7 @@ bossBar:
 # Display title and subtitle
 # For 1.8+ clients
 title:
-  enable: true
+  enable: flase
   # Set title text value empty, if you need only subtitle
   title: '{"text": "&9&lWelcome!"}'
   # Set subtitle text value empty, if you need only title

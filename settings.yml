@@ -26,8 +26,8 @@ dimension: OVERWORLD
 # Whether to display the player in the player list
 # For 1.16.5 clients, the player list will be sent even if disabled, to avoid crash
 playerList:
-  enable: false
-  username: 'NanoLimbo'
+  enable: true
+  username: 'Limbo'
 
 # Whether to display header and footer in player list
 # For 1.8+ clients
